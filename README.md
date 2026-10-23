@@ -31,7 +31,7 @@ Work code belongs to my employers, so it is not on GitHub. The repos below are m
 ## Research and open source
 
 - Two first-author papers accepted as oral presentations at **IEEE ASYU 2026**. Both use synthetic data.
-- [PyHealth PR #1324](https://github.com/sunlabuiuc/PyHealth/pull/1324) (open): fixes `regression_metrics_fn` and adds 10 unit tests.
+- [PyHealth PR #1324](https://github.com/sunlabuiuc/PyHealth/pull/1324) (open): fixes `regression_metrics_fn` and adds 12 tests, including one that runs `Trainer.evaluate` on a regression model.
 
 ## Skills
 
